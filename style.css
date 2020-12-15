@@ -5,7 +5,7 @@
     z-index: 1;
     background-color: black;
     overflow-x: hidden;
-    padding-top: 45%;
+    padding-top: 25%;
     transition: .5s;
 }
 
@@ -29,5 +29,7 @@
     font-size: 40px;
     margin-left: 50px;
 }
-
+.body {
+    background-color: ghostwhite;
+}
 
